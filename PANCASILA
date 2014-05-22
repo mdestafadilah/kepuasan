@@ -1,0 +1,61 @@
+.:: PANCASILA ::.
+------------------
+1. Siapkan Kebutuhan Aplikasi
+2. Konfigurasi aplikasi di folder www -> config.php, routest.php, database.php, autoload.php dan .htaccess
+3. Arahkan ke URI -> Install
+4. ...
+
+.:: Undang Undang ::.
+----------------------
+1. Template Hitam 	- dark.css  		-> Administrator Utama (IT Aktor)
+2. Template Coklat  - brown.css  		-> Manajer
+3. Template Merah  	- tamarillo.css 	-> Direktur
+4. Template Hijau 	- green.css 		-> Perawat
+5. Template Biru 	- eastern_blue.css	-> Pelanggan/ Konsumen
+6. Template Blank 	- white				-> Default Members/ Non-aktif/ Un-activated
+======================================================================
+
+.:: Kitab Amandemen ::.
+-----------------------
+1. https://github.com/benedmunds/CodeIgniter-Ion-Auth/issues/347
+2. http://tutorialzine.com/2012/01/question-of-the-day-codeigniter-php-mysql/
+3. http://youtu.be/whRIIjcSB1c as Contact Manager
+4. http://wuriyantoinformatika.blogspot.com
+5. http://dlaboratory.wordpress.com
+6. http://horrorthecode.wordpress.com
+
+
+.:: AMAZING SPONSORS ::.
+1.  Codeigniter Framework by Ellislab 
+2.  HMVC Modules Plugins by WireDezign
+3.  ION-Auth Plugins by Ben Edmunds
+4.  MY_Model Plugins by Jammie Rumbelow
+5.  Debug Helper by Anonims at internet
+6.  Assets Helper by Jason M Horwitz
+7.  Breadcrumb Helper By Ardinoto Wahono
+8.  HMVC Template System by David D Connelly
+9.  Eclipse and aksiIDE for Editors Supports by Community
+10. ...
+
+
+.:: FUZZY TAHANI CALCULATE (kostum with out db) ::.
+RULE 1 : AS KECEWA	
+			00..40
+			JIKA
+				= 40 MAKA 1
+				> 40 DAN X < 65 MAKA : 65 - X/ 25
+				
+RULE 2 : AS BIASA
+			40..65 ATAU 65..80
+			JIKA
+				< 40 DAN > 80 MAKA 0
+				> 40 DAN < 65 MAKA : X - 40/25
+				> 65 DAN < 80 MAKA : 80 - X/ 15
+			
+RULE 3 : AS PUAS
+			80 .. ?
+			JIKA
+				> 65 DAN < 80 MAKA : X - 65/ 15
+				 
+
+

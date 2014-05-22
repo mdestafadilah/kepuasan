@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AksiIDE>
+  <project>
+    <name>skripsi</name>
+    <module/>
+    <moduleid/>
+    <framework>
+      <name>CodeIgniter</name>
+    </framework>
+    <site>
+      <RunAs>0</RunAs>
+      <url>http://127.0.0.1/lab/ci/@riset-kepuasan</url>
+    </site>
+    <database/>
+    <js/>
+    <git/>
+  </project>
+</AksiIDE>

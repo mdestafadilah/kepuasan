@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path=""/>
+	<buildpathentry combineaccessrules="false" kind="prj" path="/2.1.3_NEW"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="con" path="org.eclipse.dltk.USER_LIBRARY/org.eclipselabs.jsdt.jquery.core.CoflictLibrary_1.9"/>
+</buildpath>
